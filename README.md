@@ -74,4 +74,18 @@ https://wsvincent.com/django-rest-framework-tutorial/
 http://www.pfinn.net/install-pip-virtualenv-on-windows.html 
 
 
+
+
+this project will never be deployed...
+
+
+email: admin@example.com 
+
+
+username: admin
+
+
+password: adminpassword
+
+
 `
